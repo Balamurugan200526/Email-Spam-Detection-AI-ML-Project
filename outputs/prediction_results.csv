@@ -1,0 +1,1001 @@
+Email_ID,Subject,Sender,Label,Predicted_Label,Confidence_Percent,Correct
+EML01006,Quarterly Report Attached,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04178,Appointment Confirmation,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01247,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03726,Work From Home - Earn $5000/Week,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04060,Appointment Confirmation,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04002,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML01621,Syllabus for Upcoming Semester,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03320,Your Order Has Been Shipped,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04864,Scheduled System Maintenance,support@onlinestore.com,Ham,Ham,100.0,True
+EML00688,Exclusive Investment Opportunity,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01793,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03630,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML03409,URGENT: Verify Your Account Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01541,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02702,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML02412,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00353,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02087,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01285,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04218,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00973,Your Refund Is Waiting,admin@account-verification.site,Spam,Spam,100.0,True
+EML04762,Quarterly Report Attached,manager@projectteam.org,Ham,Ham,100.0,True
+EML01631,Your Order Has Been Shipped,team@workplace.net,Ham,Ham,100.0,True
+EML04047,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02915,Quarterly Report Attached,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03304,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01211,Your Order Has Been Shipped,support@onlinestore.com,Ham,Ham,100.0,True
+EML01700,"You Have WON $1,000,000!!!",support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03665,Minutes of the Meeting,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02125,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML03727,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01523,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02499,Minutes of the Meeting,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML00932,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01261,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02643,Invoice for Last Month,admin@office-portal.com,Ham,Ham,100.0,True
+EML04144,Claim Your FREE Reward Today,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01197,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00873,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04723,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04514,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04591,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03800,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02135,Meeting Follow-up,team@workplace.net,Ham,Ham,100.0,True
+EML01361,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01978,Your Order Has Been Shipped,manager@projectteam.org,Ham,Ham,100.0,True
+EML04578,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03670,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02517,Weekly Team Meeting Reminder,team@workplace.net,Ham,Ham,100.0,True
+EML02012,Quarterly Report Attached,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02205,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00898,Project Timeline Update,admin@office-portal.com,Ham,Ham,100.0,True
+EML01623,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00395,Your Refund Is Waiting,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02424,Weekly Team Meeting Reminder,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00340,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML02014,Quarterly Report Attached,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01718,Appointment Confirmation,team@workplace.net,Ham,Ham,100.0,True
+EML02117,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML01055,Minutes of the Meeting,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03863,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML01956,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04553,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00498,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03233,Minutes of the Meeting,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03628,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00324,Weekly Team Meeting Reminder,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04165,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00023,"You Have WON $1,000,000!!!",offers@luxury-deals-cheap.shop,Ham,Spam,100.0,False
+EML01612,FINAL NOTICE: Account Suspension,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04868,Weekly Team Meeting Reminder,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01972,Syllabus for Upcoming Semester,support@onlinestore.com,Ham,Ham,100.0,True
+EML02286,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00903,Meeting Follow-up,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML01086,Your Order Has Been Shipped,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04302,Your Order Has Been Shipped,support@onlinestore.com,Ham,Ham,100.0,True
+EML00528,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04380,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03117,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML04720,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01048,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03718,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML03110,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01595,Quarterly Report Attached,support@onlinestore.com,Ham,Ham,100.0,True
+EML04226,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00831,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02996,Claim Your FREE Reward Today,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01487,Syllabus for Upcoming Semester,team@workplace.net,Ham,Ham,100.0,True
+EML01238,Syllabus for Upcoming Semester,support@onlinestore.com,Ham,Ham,100.0,True
+EML03404,Project Timeline Update,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03888,Quarterly Report Attached,team@workplace.net,Ham,Ham,100.0,True
+EML02389,Weekly Team Meeting Reminder,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03986,Your Order Has Been Shipped,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01025,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02107,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML01855,Quarterly Report Attached,manager@projectteam.org,Ham,Ham,100.0,True
+EML04149,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03050,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00004,FINAL NOTICE: Account Suspension,offers@luxury-deals-cheap.shop,Ham,Spam,100.0,False
+EML04510,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML00897,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01881,Project Timeline Update,admin@office-portal.com,Ham,Ham,100.0,True
+EML00962,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01880,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML04876,Meeting Follow-up,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01678,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01583,Project Timeline Update,manager@projectteam.org,Ham,Ham,100.0,True
+EML01286,Scheduled System Maintenance,admin@office-portal.com,Ham,Ham,100.0,True
+EML01822,"You Have WON $1,000,000!!!",offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01232,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02288,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01815,Your Order Has Been Shipped,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04542,Work From Home - Earn $5000/Week,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04281,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02198,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01346,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML00791,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03822,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01070,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03145,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01205,Appointment Confirmation,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03246,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02538,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02091,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03701,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03298,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML00518,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00565,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML00740,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02169,Scheduled System Maintenance,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03131,Project Timeline Update,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02220,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00051,Syllabus for Upcoming Semester,accounts@finance-services.com,Spam,Ham,100.0,False
+EML03414,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00921,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03642,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03469,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04205,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03001,Scheduled System Maintenance,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04804,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04747,Syllabus for Upcoming Semester,team@workplace.net,Ham,Ham,100.0,True
+EML03613,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02500,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02549,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML03422,Meeting Follow-up,team@workplace.net,Ham,Ham,100.0,True
+EML03079,Scheduled System Maintenance,manager@projectteam.org,Ham,Ham,100.0,True
+EML04288,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02921,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03517,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04731,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02174,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01375,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00014,Work From Home - Earn $5000/Week,no-reply@free-money-fast.biz,Ham,Spam,100.0,False
+EML03377,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04772,Invoice for Last Month,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01363,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML01835,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01150,"You Have WON $1,000,000!!!",winner@international-lottery.org,Spam,Spam,100.0,True
+EML01820,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04886,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02022,Invoice for Last Month,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03134,Weekly Team Meeting Reminder,admin@office-portal.com,Ham,Ham,100.0,True
+EML00316,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML01201,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00068,Congratulations Lucky Winner,deals@discount-mega-sale.club,Ham,Spam,100.0,False
+EML04166,Congratulations Lucky Winner,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04035,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01302,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01654,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02705,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03488,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML03749,URGENT: Verify Your Account Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03035,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01771,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02139,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03735,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00798,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04434,Scheduled System Maintenance,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02861,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02827,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02241,Appointment Confirmation,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02602,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML04013,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00755,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML01897,"You Have WON $1,000,000!!!",winner@international-lottery.org,Spam,Spam,100.0,True
+EML02159,Meeting Follow-up,team@workplace.net,Ham,Ham,100.0,True
+EML02232,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01804,Your Order Has Been Shipped,manager@projectteam.org,Ham,Ham,100.0,True
+EML04247,Syllabus for Upcoming Semester,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02255,Work From Home - Earn $5000/Week,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02895,Invoice for Last Month,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04691,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02537,Work From Home - Earn $5000/Week,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00668,Quarterly Report Attached,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03884,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00894,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03732,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML00174,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML03105,Project Timeline Update,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04151,Appointment Confirmation,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02230,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML03199,Appointment Confirmation,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03109,Syllabus for Upcoming Semester,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04539,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02238,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02491,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03189,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML03398,Your Order Has Been Shipped,manager@projectteam.org,Ham,Ham,100.0,True
+EML02143,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03332,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03032,Project Timeline Update,support@onlinestore.com,Ham,Ham,100.0,True
+EML03674,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00966,Minutes of the Meeting,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01008,Scheduled System Maintenance,admin@office-portal.com,Ham,Ham,100.0,True
+EML00429,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00679,Weekly Team Meeting Reminder,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04543,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01209,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML03258,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00977,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01410,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04334,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00555,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03021,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00385,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03862,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04458,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04327,Appointment Confirmation,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02199,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML03583,Scheduled System Maintenance,manager@projectteam.org,Ham,Ham,100.0,True
+EML01011,Your Order Has Been Shipped,support@onlinestore.com,Ham,Ham,100.0,True
+EML00949,Your Refund Is Waiting,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02234,FINAL NOTICE: Account Suspension,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00880,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01115,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02906,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00450,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML02228,FREE iPhone 15 Pro - Claim Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03805,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04552,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04696,Appointment Confirmation,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03853,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01093,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04104,"You Have WON $1,000,000!!!",winner@international-lottery.org,Spam,Spam,100.0,True
+EML02961,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01868,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML03840,Your Refund Is Waiting,admin@account-verification.site,Spam,Spam,100.0,True
+EML02685,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04330,Weekly Team Meeting Reminder,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03323,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML01204,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02669,Claim Your FREE Reward Today,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02662,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03146,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02888,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04660,Syllabus for Upcoming Semester,support@onlinestore.com,Ham,Ham,100.0,True
+EML02853,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04985,Scheduled System Maintenance,admin@office-portal.com,Ham,Ham,100.0,True
+EML04509,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04324,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03213,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01917,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00856,Congratulations Lucky Winner,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01644,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01611,Your Refund Is Waiting,admin@account-verification.site,Spam,Spam,100.0,True
+EML01702,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML03315,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML03446,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML02092,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01287,FREE iPhone 15 Pro - Claim Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00372,Minutes of the Meeting,manager@projectteam.org,Ham,Ham,100.0,True
+EML03249,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01802,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04634,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02658,Scheduled System Maintenance,support@onlinestore.com,Ham,Ham,100.0,True
+EML00834,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03141,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01662,FINAL NOTICE: Account Suspension,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01154,Syllabus for Upcoming Semester,manager@projectteam.org,Ham,Ham,100.0,True
+EML03678,Appointment Confirmation,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03214,Project Timeline Update,manager@projectteam.org,Ham,Ham,100.0,True
+EML02659,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML00717,Quarterly Report Attached,admin@office-portal.com,Ham,Ham,100.0,True
+EML01953,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02312,Appointment Confirmation,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01165,Syllabus for Upcoming Semester,team@workplace.net,Ham,Ham,100.0,True
+EML04161,Meeting Follow-up,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04692,Quarterly Report Attached,manager@projectteam.org,Ham,Ham,100.0,True
+EML01453,Minutes of the Meeting,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04837,FREE iPhone 15 Pro - Claim Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03710,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04844,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04321,URGENT: Verify Your Account Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01274,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00914,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04021,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00160,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02847,Project Timeline Update,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML00136,Your Order Has Been Shipped,admin@office-portal.com,Spam,Ham,100.0,False
+EML03846,Scheduled System Maintenance,team@workplace.net,Ham,Ham,100.0,True
+EML03643,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04586,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML01886,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03854,Your Order Has Been Shipped,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04685,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00065,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Ham,Spam,100.0,False
+EML04200,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML00802,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01981,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04730,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01974,Weekly Team Meeting Reminder,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03755,Appointment Confirmation,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04289,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML00317,Your Refund Is Waiting,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01136,Invoice for Last Month,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04540,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01069,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04792,Scheduled System Maintenance,team@workplace.net,Ham,Ham,100.0,True
+EML02432,Your Order Has Been Shipped,support@onlinestore.com,Ham,Ham,100.0,True
+EML02354,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML01169,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01745,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04896,Invoice for Last Month,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03022,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02769,Your Order Has Been Shipped,manager@projectteam.org,Ham,Ham,100.0,True
+EML01244,Your Refund Is Waiting,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00787,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML04951,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03558,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML03689,Claim Your FREE Reward Today,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01903,Your Refund Is Waiting,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01962,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01973,Weekly Team Meeting Reminder,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04439,Minutes of the Meeting,admin@office-portal.com,Ham,Ham,100.0,True
+EML03722,FINAL NOTICE: Account Suspension,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02178,Syllabus for Upcoming Semester,team@workplace.net,Ham,Ham,100.0,True
+EML04155,Quarterly Report Attached,support@onlinestore.com,Ham,Ham,100.0,True
+EML04001,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04782,Claim Your FREE Reward Today,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00299,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04555,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01741,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04524,Invoice for Last Month,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04601,URGENT: Verify Your Account Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02245,Project Timeline Update,support@onlinestore.com,Ham,Ham,100.0,True
+EML03378,Syllabus for Upcoming Semester,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01080,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01648,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML04608,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01266,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00134,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Ham,Spam,100.0,False
+EML03501,Your Order Has Been Shipped,manager@projectteam.org,Ham,Ham,100.0,True
+EML02070,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03528,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04955,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01535,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01404,Work From Home - Earn $5000/Week,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02603,URGENT: Verify Your Account Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01803,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01824,Work From Home - Earn $5000/Week,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03026,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03030,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML00481,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02440,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00256,URGENT: Verify Your Account Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04335,Syllabus for Upcoming Semester,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03262,Invoice for Last Month,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03121,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML03418,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03460,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02300,Your Order Has Been Shipped,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01699,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML03454,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML02743,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01271,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04960,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01967,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01711,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01318,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04202,Minutes of the Meeting,admin@office-portal.com,Ham,Ham,100.0,True
+EML01689,Your Refund Is Waiting,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00572,Project Timeline Update,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03686,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02675,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01728,Your Order Has Been Shipped,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01965,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02748,Syllabus for Upcoming Semester,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04405,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML00207,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02492,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02347,Appointment Confirmation,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03620,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML00540,Minutes of the Meeting,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01513,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00693,"You Have WON $1,000,000!!!",winner@international-lottery.org,Spam,Spam,100.0,True
+EML00575,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML01610,Your Refund Is Waiting,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04746,Appointment Confirmation,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01935,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04349,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03497,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML03770,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04051,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00452,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04808,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML00965,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02677,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02848,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04616,Weekly Team Meeting Reminder,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01574,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML03025,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00243,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML02497,Quarterly Report Attached,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03396,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01659,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03075,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02365,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00976,Invoice for Last Month,manager@projectteam.org,Ham,Ham,100.0,True
+EML00383,Weekly Team Meeting Reminder,support@onlinestore.com,Ham,Ham,100.0,True
+EML04095,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01381,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML03384,Your Refund Is Waiting,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03739,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03448,Invoice for Last Month,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03556,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04821,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03458,Claim Your FREE Reward Today,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02605,Meeting Follow-up,support@onlinestore.com,Ham,Ham,100.0,True
+EML03638,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02831,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02480,Meeting Follow-up,admin@office-portal.com,Ham,Ham,100.0,True
+EML03106,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03792,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00614,Congratulations Lucky Winner,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00251,Meeting Follow-up,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01156,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00146,Scheduled System Maintenance,hr@techsolutions.com,Spam,Ham,100.0,False
+EML02877,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02619,Weekly Team Meeting Reminder,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02884,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01097,"You Have WON $1,000,000!!!",prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01037,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML00326,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01809,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00115,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Ham,Spam,100.0,False
+EML04169,Minutes of the Meeting,team@workplace.net,Ham,Ham,100.0,True
+EML03401,Appointment Confirmation,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02146,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02208,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02444,Appointment Confirmation,team@workplace.net,Ham,Ham,100.0,True
+EML03000,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04536,Invoice for Last Month,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04707,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML02006,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01440,Work From Home - Earn $5000/Week,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02767,Scheduled System Maintenance,support@onlinestore.com,Ham,Ham,100.0,True
+EML02282,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00517,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00217,Syllabus for Upcoming Semester,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03611,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01759,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04121,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02355,Appointment Confirmation,manager@projectteam.org,Ham,Ham,100.0,True
+EML01794,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML03326,Claim Your FREE Reward Today,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04292,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03825,Exclusive Investment Opportunity,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03833,Quarterly Report Attached,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04606,Scheduled System Maintenance,manager@projectteam.org,Ham,Ham,100.0,True
+EML01402,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML00684,Quarterly Report Attached,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02164,Quarterly Report Attached,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04734,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01859,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04935,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML04727,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML02798,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04125,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML03314,Weekly Team Meeting Reminder,support@onlinestore.com,Ham,Ham,100.0,True
+EML02801,Work From Home - Earn $5000/Week,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01913,"You Have WON $1,000,000!!!",prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04131,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01603,Appointment Confirmation,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03357,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02547,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02896,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01463,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00783,Project Timeline Update,manager@projectteam.org,Ham,Ham,100.0,True
+EML00409,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML01762,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01105,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01290,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04311,Work From Home - Earn $5000/Week,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03443,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML04006,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML00275,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03907,Weekly Team Meeting Reminder,admin@office-portal.com,Ham,Ham,100.0,True
+EML02204,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04907,Meeting Follow-up,admin@office-portal.com,Ham,Ham,100.0,True
+EML02079,Scheduled System Maintenance,support@onlinestore.com,Ham,Ham,100.0,True
+EML04199,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00719,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01275,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML02020,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02009,Claim Your FREE Reward Today,admin@account-verification.site,Spam,Spam,100.0,True
+EML03045,Weekly Team Meeting Reminder,team@workplace.net,Ham,Ham,100.0,True
+EML03713,Meeting Follow-up,team@workplace.net,Ham,Ham,100.0,True
+EML04658,Syllabus for Upcoming Semester,admin@office-portal.com,Ham,Ham,100.0,True
+EML01651,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04890,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04172,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02753,Minutes of the Meeting,hr@techsolutions.com,Ham,Ham,100.0,True
+EML00935,Work From Home - Earn $5000/Week,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01712,Weekly Team Meeting Reminder,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02120,"You Have WON $1,000,000!!!",prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01754,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04437,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML00368,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00665,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML04825,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01589,Quarterly Report Attached,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04699,Project Timeline Update,admin@office-portal.com,Ham,Ham,100.0,True
+EML03634,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML03445,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML03990,Work From Home - Earn $5000/Week,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00771,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04904,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML04548,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02779,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML00681,Quarterly Report Attached,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02359,Project Timeline Update,admin@office-portal.com,Ham,Ham,100.0,True
+EML02399,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00642,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04194,URGENT: Verify Your Account Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02358,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02302,Claim Your FREE Reward Today,admin@account-verification.site,Spam,Spam,100.0,True
+EML00496,Scheduled System Maintenance,admin@office-portal.com,Ham,Ham,100.0,True
+EML04738,Weekly Team Meeting Reminder,manager@projectteam.org,Ham,Ham,100.0,True
+EML01643,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00188,Quarterly Report Attached,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03055,Congratulations Lucky Winner,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01749,Minutes of the Meeting,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01905,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02970,Syllabus for Upcoming Semester,manager@projectteam.org,Ham,Ham,100.0,True
+EML02903,Invoice for Last Month,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03077,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML01628,Quarterly Report Attached,manager@projectteam.org,Ham,Ham,100.0,True
+EML00031,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Ham,Spam,100.0,False
+EML00660,"You Have WON $1,000,000!!!",offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00412,Minutes of the Meeting,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02438,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML00301,URGENT: Verify Your Account Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04113,Syllabus for Upcoming Semester,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML00917,Weekly Team Meeting Reminder,team@workplace.net,Ham,Ham,100.0,True
+EML04526,FINAL NOTICE: Account Suspension,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01979,Quarterly Report Attached,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03088,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04694,Scheduled System Maintenance,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03195,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04372,Your Order Has Been Shipped,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00944,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01110,FREE iPhone 15 Pro - Claim Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04343,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01167,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04094,FINAL NOTICE: Account Suspension,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03465,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04744,Syllabus for Upcoming Semester,support@onlinestore.com,Ham,Ham,100.0,True
+EML03416,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01428,Your Order Has Been Shipped,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04537,FREE iPhone 15 Pro - Claim Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01301,Claim Your FREE Reward Today,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03582,Minutes of the Meeting,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02224,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03574,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML02326,Your Order Has Been Shipped,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03806,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01577,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01364,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04466,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00806,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML00483,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00266,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03255,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03188,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML01344,Your Refund Is Waiting,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01751,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01122,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04157,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02311,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02563,Syllabus for Upcoming Semester,manager@projectteam.org,Ham,Ham,100.0,True
+EML01372,FREE iPhone 15 Pro - Claim Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03453,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01639,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02777,Minutes of the Meeting,manager@projectteam.org,Ham,Ham,100.0,True
+EML02038,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04571,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00329,Invoice for Last Month,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02571,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00789,Quarterly Report Attached,manager@projectteam.org,Ham,Ham,100.0,True
+EML00007,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Ham,Spam,100.0,False
+EML00349,Exclusive Investment Opportunity,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03301,Work From Home - Earn $5000/Week,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00601,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML04279,Meeting Follow-up,team@workplace.net,Ham,Ham,100.0,True
+EML03775,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01027,Minutes of the Meeting,priya.sharma@company.com,Ham,Ham,100.0,True
+EML00548,Quarterly Report Attached,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04142,Syllabus for Upcoming Semester,priya.sharma@company.com,Ham,Ham,100.0,True
+EML00468,Weekly Team Meeting Reminder,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03333,FINAL NOTICE: Account Suspension,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02983,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02330,Minutes of the Meeting,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04079,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00420,Invoice for Last Month,manager@projectteam.org,Ham,Ham,100.0,True
+EML02718,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01510,FINAL NOTICE: Account Suspension,admin@account-verification.site,Spam,Spam,100.0,True
+EML02741,URGENT: Verify Your Account Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04992,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03906,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02108,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01998,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03174,Your Refund Is Waiting,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00314,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04182,Claim Your FREE Reward Today,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01390,Work From Home - Earn $5000/Week,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00678,Congratulations Lucky Winner,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04462,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00995,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01976,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03861,URGENT: Verify Your Account Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01305,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML03168,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01760,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03523,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03230,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01516,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01219,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00085,Syllabus for Upcoming Semester,support@onlinestore.com,Spam,Ham,100.0,False
+EML04262,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03894,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML02357,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03535,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00396,Meeting Follow-up,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01899,Invoice for Last Month,admin@office-portal.com,Ham,Ham,100.0,True
+EML01398,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01348,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01234,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML04956,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML04784,Your Order Has Been Shipped,priya.sharma@company.com,Ham,Ham,100.0,True
+EML00969,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01795,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00813,"You Have WON $1,000,000!!!",hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04459,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00989,Syllabus for Upcoming Semester,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04936,Quarterly Report Attached,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03318,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02392,Weekly Team Meeting Reminder,admin@office-portal.com,Ham,Ham,100.0,True
+EML01436,Your Refund Is Waiting,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02504,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03961,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02112,"You Have WON $1,000,000!!!",prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04631,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML01854,Appointment Confirmation,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01330,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03935,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02305,Invoice for Last Month,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML01171,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01000,FINAL NOTICE: Account Suspension,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00156,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03640,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03563,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01329,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02745,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML00056,Weekly Team Meeting Reminder,professor.rao@college.edu,Spam,Ham,100.0,False
+EML04813,Quarterly Report Attached,support@onlinestore.com,Ham,Ham,100.0,True
+EML01104,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01308,Weekly Team Meeting Reminder,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01528,Limited Time Offer - 90% OFF,admin@account-verification.site,Spam,Spam,100.0,True
+EML02723,FINAL NOTICE: Account Suspension,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00312,Weekly Team Meeting Reminder,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02621,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01663,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01076,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML04819,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01776,Invoice for Last Month,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML01629,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML02463,Scheduled System Maintenance,team@workplace.net,Ham,Ham,100.0,True
+EML01963,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04508,Minutes of the Meeting,manager@projectteam.org,Ham,Ham,100.0,True
+EML02380,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02637,Exclusive Investment Opportunity,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01817,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00028,URGENT: Verify Your Account Now,support@bank-security-alert.info,Ham,Spam,100.0,False
+EML01186,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01023,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04126,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02430,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03979,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04389,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02261,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00437,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00883,Congratulations Lucky Winner,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00088,"You Have WON $1,000,000!!!",winner@international-lottery.org,Ham,Spam,100.0,False
+EML01807,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03329,Appointment Confirmation,manager@projectteam.org,Ham,Ham,100.0,True
+EML02904,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00682,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04353,Weekly Team Meeting Reminder,team@workplace.net,Ham,Ham,100.0,True
+EML01394,URGENT: Verify Your Account Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04482,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04649,Scheduled System Maintenance,support@onlinestore.com,Ham,Ham,100.0,True
+EML04124,Claim Your FREE Reward Today,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03704,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01190,Minutes of the Meeting,team@workplace.net,Ham,Ham,100.0,True
+EML02345,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04230,Scheduled System Maintenance,team@workplace.net,Ham,Ham,100.0,True
+EML04534,Claim Your FREE Reward Today,admin@account-verification.site,Spam,Spam,100.0,True
+EML02987,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML04385,URGENT: Verify Your Account Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02830,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00185,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01825,Appointment Confirmation,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00304,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03352,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03788,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML04640,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML02772,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04901,Quarterly Report Attached,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04333,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00393,Your Order Has Been Shipped,team@workplace.net,Ham,Ham,100.0,True
+EML03591,Exclusive Investment Opportunity,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00223,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02025,Project Timeline Update,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03108,Project Timeline Update,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02157,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML04953,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03859,Quarterly Report Attached,admin@office-portal.com,Ham,Ham,100.0,True
+EML03004,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01411,Meeting Follow-up,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02363,Your Refund Is Waiting,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02235,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02361,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01222,Meeting Follow-up,admin@office-portal.com,Ham,Ham,100.0,True
+EML02686,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01333,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04304,URGENT: Verify Your Account Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03250,Your Order Has Been Shipped,team@workplace.net,Ham,Ham,100.0,True
+EML03265,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML00071,Your Refund Is Waiting,prizeteam@lottery-winners.win,Ham,Spam,100.0,False
+EML03521,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02433,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04150,Your Order Has Been Shipped,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02332,Minutes of the Meeting,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02956,FREE iPhone 15 Pro - Claim Now,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03594,FINAL NOTICE: Account Suspension,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00790,Work From Home - Earn $5000/Week,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00323,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML01328,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML02914,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00504,Appointment Confirmation,manager@projectteam.org,Ham,Ham,100.0,True
+EML03089,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03351,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01307,Appointment Confirmation,team@workplace.net,Ham,Ham,100.0,True
+EML03003,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03764,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML01331,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML04869,Syllabus for Upcoming Semester,manager@projectteam.org,Ham,Ham,100.0,True
+EML01403,Your Refund Is Waiting,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01121,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML04387,Your Refund Is Waiting,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03867,Minutes of the Meeting,team@workplace.net,Ham,Ham,100.0,True
+EML03905,Minutes of the Meeting,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00758,Invoice for Last Month,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02350,Minutes of the Meeting,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01792,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML03120,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03319,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02160,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04007,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00972,Your Refund Is Waiting,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03245,Invoice for Last Month,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00199,Quarterly Report Attached,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03810,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02588,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02134,"You Have WON $1,000,000!!!",deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03533,Your Order Has Been Shipped,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00587,Syllabus for Upcoming Semester,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03530,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00984,Weekly Team Meeting Reminder,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01717,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01272,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML04872,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01146,Project Timeline Update,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03941,FREE iPhone 15 Pro - Claim Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01836,Appointment Confirmation,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01891,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02063,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04549,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML04978,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02862,Project Timeline Update,team@workplace.net,Ham,Ham,100.0,True
+EML02080,Quarterly Report Attached,team@workplace.net,Ham,Ham,100.0,True
+EML00784,Project Timeline Update,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01722,Invoice for Last Month,manager@projectteam.org,Ham,Ham,100.0,True
+EML02488,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML01144,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML02373,Meeting Follow-up,priya.sharma@company.com,Ham,Ham,100.0,True
+EML00795,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00227,Project Timeline Update,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00346,Invoice for Last Month,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03801,FINAL NOTICE: Account Suspension,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02039,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03605,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02817,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03502,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML03585,Weekly Team Meeting Reminder,manager@projectteam.org,Ham,Ham,100.0,True
+EML04588,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03305,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01289,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03508,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML01243,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03224,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00544,Scheduled System Maintenance,team@workplace.net,Ham,Ham,100.0,True
+EML03085,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML00095,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Ham,Spam,100.0,False
+EML02442,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02161,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML01532,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML03024,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML01304,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04467,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04861,Weekly Team Meeting Reminder,manager@projectteam.org,Ham,Ham,100.0,True
+EML00083,Your Order Has Been Shipped,noreply@shipping-service.com,Spam,Ham,100.0,False
+EML02638,Congratulations Lucky Winner,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03740,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML03340,Your Order Has Been Shipped,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00234,Quarterly Report Attached,support@onlinestore.com,Ham,Ham,100.0,True
+EML00365,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02585,FREE iPhone 15 Pro - Claim Now,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03651,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02210,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01125,Invoice for Last Month,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML01058,Project Timeline Update,manager@projectteam.org,Ham,Ham,100.0,True
+EML04681,Invoice for Last Month,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03784,Congratulations Lucky Winner,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03511,Claim Your FREE Reward Today,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04874,Syllabus for Upcoming Semester,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01257,Appointment Confirmation,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01553,Project Timeline Update,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03629,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML02539,Your Refund Is Waiting,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01915,Limited Time Offer - 90% OFF,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03421,Your Order Has Been Shipped,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02825,Exclusive Investment Opportunity,admin@account-verification.site,Spam,Spam,100.0,True
+EML04946,"You Have WON $1,000,000!!!",prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01480,Weekly Team Meeting Reminder,hr@techsolutions.com,Ham,Ham,100.0,True
+EML01182,Appointment Confirmation,team@workplace.net,Ham,Ham,100.0,True
+EML00936,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04233,Scheduled System Maintenance,admin@office-portal.com,Ham,Ham,100.0,True
+EML02019,Meeting Follow-up,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03818,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML00183,FINAL NOTICE: Account Suspension,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02927,Congratulations Lucky Winner,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML00912,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML03451,Weekly Team Meeting Reminder,manager@projectteam.org,Ham,Ham,100.0,True
+EML04381,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03157,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04805,FREE iPhone 15 Pro - Claim Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML03916,Congratulations Lucky Winner,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02073,Your Order Has Been Shipped,admin@office-portal.com,Ham,Ham,100.0,True
+EML02168,Scheduled System Maintenance,accounts@finance-services.com,Ham,Ham,100.0,True
+EML01512,Quarterly Report Attached,admin@office-portal.com,Ham,Ham,100.0,True
+EML02876,Work From Home - Earn $5000/Week,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04966,Meeting Follow-up,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04760,Scheduled System Maintenance,professor.rao@college.edu,Ham,Ham,100.0,True
+EML02919,Appointment Confirmation,admin@office-portal.com,Ham,Ham,100.0,True
+EML00741,Your Order Has Been Shipped,priya.sharma@company.com,Ham,Ham,100.0,True
+EML02590,Minutes of the Meeting,professor.rao@college.edu,Ham,Ham,100.0,True
+EML03827,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML02258,Limited Time Offer - 90% OFF,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03447,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04857,Your Order Has Been Shipped,support@onlinestore.com,Ham,Ham,100.0,True
+EML02687,Quarterly Report Attached,team@workplace.net,Ham,Ham,100.0,True
+EML04743,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02427,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML02651,Minutes of the Meeting,team@workplace.net,Ham,Ham,100.0,True
+EML03407,Weekly Team Meeting Reminder,manager@projectteam.org,Ham,Ham,100.0,True
+EML00513,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML04637,Work From Home - Earn $5000/Week,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03231,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML02182,FREE iPhone 15 Pro - Claim Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03878,Congratulations Lucky Winner,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01693,FINAL NOTICE: Account Suspension,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02322,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML00170,Your Refund Is Waiting,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03343,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01757,FINAL NOTICE: Account Suspension,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00552,Claim Your FREE Reward Today,admin@account-verification.site,Spam,Spam,100.0,True
+EML03606,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02044,Meeting Follow-up,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03571,Appointment Confirmation,support@onlinestore.com,Ham,Ham,100.0,True
+EML02212,Scheduled System Maintenance,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02808,Congratulations Lucky Winner,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00027,Syllabus for Upcoming Semester,manager@projectteam.org,Spam,Ham,100.0,False
+EML01283,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML00505,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00288,Scheduled System Maintenance,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04777,Appointment Confirmation,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03420,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML04557,Meeting Follow-up,accounts@finance-services.com,Ham,Ham,100.0,True
+EML03956,Invoice for Last Month,support@onlinestore.com,Ham,Ham,100.0,True
+EML02425,Syllabus for Upcoming Semester,team@workplace.net,Ham,Ham,100.0,True
+EML02294,Weekly Team Meeting Reminder,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03310,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02814,Quarterly Report Attached,support@onlinestore.com,Ham,Ham,100.0,True
+EML00446,URGENT: Verify Your Account Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML04980,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01081,Congratulations Lucky Winner,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03753,Invoice for Last Month,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML04496,Weekly Team Meeting Reminder,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04227,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML03692,Project Timeline Update,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML03405,"You Have WON $1,000,000!!!",no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML03969,FREE iPhone 15 Pro - Claim Now,admin@account-verification.site,Spam,Spam,100.0,True
+EML00853,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00623,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML01814,Quarterly Report Attached,admin@office-portal.com,Ham,Ham,100.0,True
+EML01701,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01832,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML03260,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04360,"You Have WON $1,000,000!!!",support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03529,Syllabus for Upcoming Semester,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML04103,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02506,Claim Your FREE Reward Today,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML02061,Limited Time Offer - 90% OFF,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML02503,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04921,Claim Your FREE Reward Today,winner@international-lottery.org,Spam,Spam,100.0,True
+EML04110,Weekly Team Meeting Reminder,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03473,Your Order Has Been Shipped,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML02706,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04308,FINAL NOTICE: Account Suspension,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML04802,Limited Time Offer - 90% OFF,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03191,FREE iPhone 15 Pro - Claim Now,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00978,URGENT: Verify Your Account Now,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00375,"You Have WON $1,000,000!!!",winner@international-lottery.org,Spam,Spam,100.0,True
+EML01273,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML02946,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03835,Appointment Confirmation,manager@projectteam.org,Ham,Ham,100.0,True
+EML04486,Your Refund Is Waiting,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00284,Limited Time Offer - 90% OFF,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04797,Work From Home - Earn $5000/Week,admin@account-verification.site,Spam,Spam,100.0,True
+EML04054,URGENT: Verify Your Account Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03949,Limited Time Offer - 90% OFF,winner@international-lottery.org,Spam,Spam,100.0,True
+EML00418,Appointment Confirmation,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02757,Congratulations Lucky Winner,hr@work-from-home-jobs.top,Spam,Spam,100.0,True
+EML04575,Limited Time Offer - 90% OFF,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML00800,Work From Home - Earn $5000/Week,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02421,Appointment Confirmation,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML00053,URGENT: Verify Your Account Now,hr@work-from-home-jobs.top,Ham,Spam,100.0,False
+EML04968,Exclusive Investment Opportunity,winner@international-lottery.org,Spam,Spam,100.0,True
+EML02609,Quarterly Report Attached,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02699,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML03471,Syllabus for Upcoming Semester,hr@techsolutions.com,Ham,Ham,100.0,True
+EML03985,FREE iPhone 15 Pro - Claim Now,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML02595,Claim Your FREE Reward Today,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML03200,Meeting Follow-up,hr@techsolutions.com,Ham,Ham,100.0,True
+EML04426,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML03100,Congratulations Lucky Winner,admin@account-verification.site,Spam,Spam,100.0,True
+EML02833,Minutes of the Meeting,admin@office-portal.com,Ham,Ham,100.0,True
+EML02622,Your Refund Is Waiting,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02873,Exclusive Investment Opportunity,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML01198,Your Refund Is Waiting,admin@account-verification.site,Spam,Spam,100.0,True
+EML04867,FREE iPhone 15 Pro - Claim Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML02045,Project Timeline Update,support@onlinestore.com,Ham,Ham,100.0,True
+EML02913,Work From Home - Earn $5000/Week,support@bank-security-alert.info,Spam,Spam,100.0,True
+EML03971,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML04314,Syllabus for Upcoming Semester,support@onlinestore.com,Ham,Ham,100.0,True
+EML03648,Minutes of the Meeting,admin@office-portal.com,Ham,Ham,100.0,True
+EML01984,Quarterly Report Attached,hr@techsolutions.com,Ham,Ham,100.0,True
+EML02995,Quarterly Report Attached,admin@office-portal.com,Ham,Ham,100.0,True
+EML00823,Scheduled System Maintenance,priya.sharma@company.com,Ham,Ham,100.0,True
+EML04840,Minutes of the Meeting,accounts@finance-services.com,Ham,Ham,100.0,True
+EML02148,"You Have WON $1,000,000!!!",admin@account-verification.site,Spam,Spam,100.0,True
+EML01075,Meeting Follow-up,priya.sharma@company.com,Ham,Ham,100.0,True
+EML01902,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML01327,Exclusive Investment Opportunity,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML00670,FINAL NOTICE: Account Suspension,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML00419,Syllabus for Upcoming Semester,professor.rao@college.edu,Ham,Ham,100.0,True
+EML00605,Meeting Follow-up,manager@projectteam.org,Ham,Ham,100.0,True
+EML04800,Exclusive Investment Opportunity,prizeteam@lottery-winners.win,Spam,Spam,100.0,True
+EML01591,Scheduled System Maintenance,noreply@shipping-service.com,Ham,Ham,100.0,True
+EML02093,Invoice for Last Month,team@workplace.net,Ham,Ham,100.0,True
+EML01166,Your Order Has Been Shipped,priya.sharma@company.com,Ham,Ham,100.0,True
+EML03388,Quarterly Report Attached,rahul.verma@university.edu,Ham,Ham,100.0,True
+EML03374,Appointment Confirmation,manager@projectteam.org,Ham,Ham,100.0,True
+EML03083,Invoice for Last Month,professor.rao@college.edu,Ham,Ham,100.0,True
+EML04674,Exclusive Investment Opportunity,no-reply@free-money-fast.biz,Spam,Spam,100.0,True
+EML00359,Claim Your FREE Reward Today,offers@luxury-deals-cheap.shop,Spam,Spam,100.0,True
+EML03595,URGENT: Verify Your Account Now,deals@discount-mega-sale.club,Spam,Spam,100.0,True
+EML04447,Minutes of the Meeting,support@onlinestore.com,Ham,Ham,100.0,True
+EML04860,Project Timeline Update,hr@techsolutions.com,Ham,Ham,100.0,True

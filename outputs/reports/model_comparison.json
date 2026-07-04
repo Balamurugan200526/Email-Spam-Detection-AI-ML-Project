@@ -1,0 +1,52 @@
+{
+  "feature_extraction_comparison": {
+    "count": 0.979,
+    "tfidf": 0.979
+  },
+  "best_feature_method": "count",
+  "model_comparison": {
+    "Naive Bayes": {
+      "Accuracy": 0.979,
+      "Precision": 0.9723,
+      "Recall": 0.986,
+      "F1-Score": 0.9791,
+      "Train_Time_Seconds": 0.013
+    },
+    "Logistic Regression": {
+      "Accuracy": 0.979,
+      "Precision": 0.9723,
+      "Recall": 0.986,
+      "F1-Score": 0.9791,
+      "Train_Time_Seconds": 0.039
+    },
+    "Decision Tree": {
+      "Accuracy": 0.954,
+      "Precision": 0.9503,
+      "Recall": 0.9579,
+      "F1-Score": 0.9541,
+      "Train_Time_Seconds": 0.226
+    },
+    "Random Forest": {
+      "Accuracy": 0.973,
+      "Precision": 0.9683,
+      "Recall": 0.978,
+      "F1-Score": 0.9731,
+      "Train_Time_Seconds": 2.707
+    },
+    "Support Vector Machine": {
+      "Accuracy": 0.979,
+      "Precision": 0.9723,
+      "Recall": 0.986,
+      "F1-Score": 0.9791,
+      "Train_Time_Seconds": 5.167
+    },
+    "K-Nearest Neighbors": {
+      "Accuracy": 0.979,
+      "Precision": 0.9723,
+      "Recall": 0.986,
+      "F1-Score": 0.9791,
+      "Train_Time_Seconds": 0.205
+    }
+  },
+  "best_model": "Naive Bayes"
+}
